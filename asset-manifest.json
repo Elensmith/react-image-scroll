@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/react-image-scroll/static/css/main.62de335b.chunk.css",
+    "main.js": "/react-image-scroll/static/js/main.93a1dc43.chunk.js",
+    "main.js.map": "/react-image-scroll/static/js/main.93a1dc43.chunk.js.map",
+    "runtime-main.js": "/react-image-scroll/static/js/runtime-main.34865875.js",
+    "runtime-main.js.map": "/react-image-scroll/static/js/runtime-main.34865875.js.map",
+    "static/css/2.cc77c331.chunk.css": "/react-image-scroll/static/css/2.cc77c331.chunk.css",
+    "static/js/2.730aa040.chunk.js": "/react-image-scroll/static/js/2.730aa040.chunk.js",
+    "static/js/2.730aa040.chunk.js.map": "/react-image-scroll/static/js/2.730aa040.chunk.js.map",
+    "static/js/3.202685e7.chunk.js": "/react-image-scroll/static/js/3.202685e7.chunk.js",
+    "static/js/3.202685e7.chunk.js.map": "/react-image-scroll/static/js/3.202685e7.chunk.js.map",
+    "index.html": "/react-image-scroll/index.html",
+    "static/css/2.cc77c331.chunk.css.map": "/react-image-scroll/static/css/2.cc77c331.chunk.css.map",
+    "static/css/main.62de335b.chunk.css.map": "/react-image-scroll/static/css/main.62de335b.chunk.css.map",
+    "static/js/2.730aa040.chunk.js.LICENSE.txt": "/react-image-scroll/static/js/2.730aa040.chunk.js.LICENSE.txt",
+    "static/media/main_image.0286ecac.jpg": "/react-image-scroll/static/media/main_image.0286ecac.jpg",
+    "static/media/row1_image1.2470ada3.jpg": "/react-image-scroll/static/media/row1_image1.2470ada3.jpg",
+    "static/media/row1_image2.87a331ba.jpg": "/react-image-scroll/static/media/row1_image2.87a331ba.jpg",
+    "static/media/row1_image3.64677bee.jpg": "/react-image-scroll/static/media/row1_image3.64677bee.jpg",
+    "static/media/row2_image1.e9e00ebc.jpg": "/react-image-scroll/static/media/row2_image1.e9e00ebc.jpg",
+    "static/media/row2_image2.2057843a.jpg": "/react-image-scroll/static/media/row2_image2.2057843a.jpg",
+    "static/media/row2_image3.d162ec60.jpg": "/react-image-scroll/static/media/row2_image3.d162ec60.jpg",
+    "static/media/row2_image4.ecb233ef.jpg": "/react-image-scroll/static/media/row2_image4.ecb233ef.jpg",
+    "static/media/row2_image5.1c505691.jpg": "/react-image-scroll/static/media/row2_image5.1c505691.jpg",
+    "static/media/row2_image6.fef2313f.jpg": "/react-image-scroll/static/media/row2_image6.fef2313f.jpg",
+    "static/media/row2_image7.2aa88fa4.jpg": "/react-image-scroll/static/media/row2_image7.2aa88fa4.jpg",
+    "static/media/row2_image8.f27c9adb.jpg": "/react-image-scroll/static/media/row2_image8.f27c9adb.jpg",
+    "static/media/row3_image1.1dc7557d.jpg": "/react-image-scroll/static/media/row3_image1.1dc7557d.jpg",
+    "static/media/row3_image2.c4bb6613.jpg": "/react-image-scroll/static/media/row3_image2.c4bb6613.jpg",
+    "static/media/row3_image3.d40ad7bf.jpg": "/react-image-scroll/static/media/row3_image3.d40ad7bf.jpg",
+    "static/media/row3_image4.029a45d4.jpg": "/react-image-scroll/static/media/row3_image4.029a45d4.jpg",
+    "static/media/row3_image5.e61ba72e.jpg": "/react-image-scroll/static/media/row3_image5.e61ba72e.jpg",
+    "static/media/row3_image6.8f001614.jpg": "/react-image-scroll/static/media/row3_image6.8f001614.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34865875.js",
+    "static/css/2.cc77c331.chunk.css",
+    "static/js/2.730aa040.chunk.js",
+    "static/css/main.62de335b.chunk.css",
+    "static/js/main.93a1dc43.chunk.js"
+  ]
+}
