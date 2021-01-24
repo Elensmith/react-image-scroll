@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+  background-color: black;
+  max-width: 1440px;
+  height: 2985px;
+}
+
+.app__header {
+  margin-top: 89px;
+  width: 80%;
+  object-fit: cover;
+  max-height: 700px;
+}

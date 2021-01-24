@@ -1,0 +1,32 @@
+.scroll-right {
+  margin-top: 89px;
+  max-height: 366px;
+  position: relative;
+}
+
+.scroll__image_right {
+  max-width: 366px;
+  max-height: 366px;
+  margin-left: 70px;
+  animation: 35s linear infinite scroll-right;
+}
+
+.scroll__title_right {
+  max-width: 260px;
+  right: 100%;
+  left: 12.5%;
+}
+
+.scroll__subtitle_right {
+  right: 100%;
+  left: 12.5%;
+}
+
+@keyframes scroll-right {
+  0% {
+    transform: translateX(10%);
+  }
+  100% {
+    transform: translateX(-1000%);
+  }
+}

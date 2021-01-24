@@ -1,0 +1,49 @@
+.scroll {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow: hidden;
+  /* overflow-y: auto; */
+}
+
+.scroll-left {
+  margin-top: 89px;
+  max-height: 366px;
+  position: relative;
+}
+
+.scroll__image {
+  max-width: 588px;
+  max-height: 366px;
+  margin-right: 70px;
+  animation: 60s linear infinite scroll-left;
+}
+
+.scroll__title {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 64px;
+  font-weight: bold;
+  position: absolute;
+  right: 12.5%;
+  top: 272px;
+  margin: 0;
+}
+
+.scroll__subtitle {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 36px;
+  font-weight: lighter;
+  position: absolute;
+  right: 12.5%;
+  top: 159px;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(-450%);
+  }
+  100% {
+    transform: translateX(200%);
+  }
+}
