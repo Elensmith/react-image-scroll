@@ -1,5 +1,5 @@
 .scroll-right {
-  margin-top: 89px;
+  /* margin-top: 89px; */
   max-height: 366px;
   position: relative;
 }
@@ -20,6 +20,22 @@
 .scroll__subtitle_right {
   right: 100%;
   left: 12.5%;
+}
+
+@media screen and (max-width: 1022px) {
+  .scroll__image_right {
+    max-height: 249px;
+    max-width: 249px;
+    margin-left: 50px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .scroll__image_right {
+    max-height: 173px;
+    max-width: 173px;
+    margin-left: 30px;
+  }
 }
 
 @keyframes scroll-right {

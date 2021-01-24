@@ -11,3 +11,13 @@
   object-fit: cover;
   max-height: 700px;
 }
+
+@media screen and (max-width: 590px) {
+  .app__header {
+    margin-top: 60px;
+    width: 100%;
+  }
+  .app {
+    height: 1400px;
+  }
+}
